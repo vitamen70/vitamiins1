@@ -1,0 +1,4 @@
+Beidzot sapratu. git pull origin master no i-neta uz lok'alo
+git status
+git commit -a -m "koment'ars"
+git push origin master
